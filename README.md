@@ -1,5 +1,5 @@
 # Business Data Analysis (Excel Dashboard)
-![Dashboard Preview](Dashboard.PNG)
+![Dashboard Preview](Dashboard.png)
 
 ## Overview
 This project presents an interactive Excel dashboard built to analyze sales performance across regions, product categories, and payment methods. It enables dynamic filtering and provides actionable insights for data-driven decision making.
