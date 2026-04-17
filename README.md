@@ -2,7 +2,7 @@
 ![Dashboard Preview](Dashboard.png)
 
 ## Overview
-This project presents an interactive Excel dashboard built to analyze sales performance across regions, product categories, and payment methods. It enables dynamic filtering and provides actionable insights for data-driven decision making.
+This project demonstrates the development of an interactive Excel dashboard to analyze business sales data. It enables dynamic filtering and uncovers key insights across regions, product categories, and payment methods to support data-driven decision making.
 
 ## Objectives
 - Evaluate revenue distribution across regions
@@ -26,12 +26,17 @@ This project presents an interactive Excel dashboard built to analyze sales perf
 ## Key Insights
 - Credit Card contributes ~63% of total revenue, significantly outperforming other payment methods
 - Electronics is the highest revenue-generating category, indicating strong demand
-- Asia leads in overall revenue contribution across regions
+- Asia contributes the highest share of revenue, indicating a strong market concentration and potential focus area for business expansion strategies.
 - Revenue peaks in January and declines in subsequent months, suggesting seasonality
 
 ## Files
 - Sales_Dashboard.xlsx → Complete Excel dashboard
 - dashboard.png → Dashboard preview
+  
+## How to Use
+- Open the Excel file
+- Navigate to the dashboard sheet
+- Use slicers to filter by region and explore insights dynamically
 
 ## Outcome
 Developed an interactive business dashboard to support data-driven decision making using Excel.
